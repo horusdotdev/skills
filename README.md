@@ -8,6 +8,12 @@ Agent skills by [horus.dev](https://horus.dev).
 npx skills add horusdotdev/skills
 ```
 
+Or with [Vite+](https://viteplus.dev):
+
+```sh
+vpx skills add horusdotdev/skills
+```
+
 Install a single skill:
 
 ```sh
