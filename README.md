@@ -1,6 +1,6 @@
 # skills
 
-Agent skills by [horus.dev](https://horus.dev) that follow the [Agent Skills](https://agentskills.io) standard.
+Agent skills by [horus.dev](https://horus.dev).
 
 ## Install
 
